@@ -1,7 +1,33 @@
 ---
-title: "Tony_Zhu"
+title: "Tony Zhu"
 ---
 
-This is a Quarto website.
+## 👋 About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am an undergraduate student with a strong interest in **statistics, data science, and academic research**.  
+My academic training focuses on statistical modeling, data analysis, and applied machine learning.
+
+I am currently seeking **research opportunities, graduate programs, and academic-oriented positions**.
+
+---
+
+## 📄 Curriculum Vitae
+
+- 👉 **[Download my CV (PDF)](files/Tony_Resume.pdf)**
+
+---
+
+## 🔬 Research & Projects
+
+- Statistical modeling and data analysis (R, Python)
+- Coursework projects in probability, regression, and applied statistics
+- Data-driven problem solving with reproducible workflows
+
+(Details coming soon.)
+
+---
+
+## 📬 Contact
+
+- Email: *your.email@utoronto.ca*
+- GitHub: [https://github.com/TonyZhu233](https://github.com/TonyZhu233)

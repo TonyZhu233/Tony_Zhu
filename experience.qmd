@@ -1,5 +1,18 @@
 ---
-title: "About"
+title: "Experience"
 ---
 
-About this site
+## Finance Analyst Intern — Softchoice Corp. (Sep 2023 – Apr 2024)
+- Automated reporting using **Python + Excel VBA**, reducing generation time by **75%**.
+- Supported month-end/quarter-end reporting; investigated daily cash receipts using SAP.
+
+## Risk Policy & Analysis Intern — Ontario Financial Authority (Jan – Apr 2023)
+- Built ML models to forecast market trends and credit risk indicators, improving accuracy by **15%**.
+- Produced risk management reports; delivered dashboards and insights to senior management.
+
+## Teaching Assistant — University of Toronto Scarborough (Jan 2023 – Apr 2025)
+- Led weekly tutorials and office hours; graded and provided feedback.
+- Courses include applied stats, probability, categorical data analysis, derivatives, investment & credit.
+
+## Statistical Consulting Assistant — UTSC (May – Sep 2024)
+- Supported researchers in study design, modeling, interpretation, and reporting.

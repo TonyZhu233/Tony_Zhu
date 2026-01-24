@@ -1,0 +1,14 @@
+---
+title: "CV"
+---
+
+## Download
+- PDF: *upload your resume to the repo*, e.g. `files/Tony_Resume.pdf`
+- Then link it here.
+
+[Download my CV (PDF)](files/Tony_Resume.pdf)
+
+## Quick Summary
+- MS Biostatistics, Yale University (2025–2027)
+- Honours BSc (High Distinction), Quantitative Finance Stream, UTSC (GPA 3.92)
+- R / Python / SQL; Risk analytics; reporting automation; teaching & communication

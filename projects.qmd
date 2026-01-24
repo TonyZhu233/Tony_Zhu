@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+
+## Portfolio Trading Strategy for a Volatile Year (Team Lead)
+- Dynamic strategy using Modern Portfolio Theory with monthly rolling-window optimization.
+- Diversified portfolio (ETFs, equities, gold, bonds); backtested vs S&P 500.
+
+## Scent Analysis: Rats Detecting Landmines (Team Lead)
+- Regression w/ interactions + quadratic terms for nonlinearity.
+- Feature engineering, log transforms, CV/backtesting, residual diagnostics.
+
+## Survival Analysis Project (Team Member)
+- Cancer patient survival modeling and report writing (reading course style).
