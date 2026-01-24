@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>projects – Tony_Zhu</title>
+<title>Projects – Tony_Zhu</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,9 +68,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
-<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -95,9 +95,20 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <span class="nav-link">
-<span class="menu-text">about.qmd</span>
-    </span>
+    <a class="nav-link" href="./experience.html"> 
+<span class="menu-text">Experience</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./projects.html" aria-current="page"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -110,17 +121,61 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#portfolio-trading-strategy-for-a-volatile-year-team-lead" id="toc-portfolio-trading-strategy-for-a-volatile-year-team-lead" class="nav-link active" data-scroll-target="#portfolio-trading-strategy-for-a-volatile-year-team-lead">Portfolio Trading Strategy for a Volatile Year (Team Lead)</a></li>
+  <li><a href="#scent-analysis-rats-detecting-landmines-team-lead" id="toc-scent-analysis-rats-detecting-landmines-team-lead" class="nav-link" data-scroll-target="#scent-analysis-rats-detecting-landmines-team-lead">Scent Analysis: Rats Detecting Landmines (Team Lead)</a></li>
+  <li><a href="#survival-analysis-project-team-member" id="toc-survival-analysis-project-team-member" class="nav-link" data-scroll-target="#survival-analysis-project-team-member">Survival Analysis Project (Team Member)</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Projects</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
+</header>
 
+
+<section id="portfolio-trading-strategy-for-a-volatile-year-team-lead" class="level2">
+<h2 class="anchored" data-anchor-id="portfolio-trading-strategy-for-a-volatile-year-team-lead">Portfolio Trading Strategy for a Volatile Year (Team Lead)</h2>
+<ul>
+<li>Dynamic strategy using Modern Portfolio Theory with monthly rolling-window optimization.</li>
+<li>Diversified portfolio (ETFs, equities, gold, bonds); backtested vs S&amp;P 500.</li>
+</ul>
+</section>
+<section id="scent-analysis-rats-detecting-landmines-team-lead" class="level2">
+<h2 class="anchored" data-anchor-id="scent-analysis-rats-detecting-landmines-team-lead">Scent Analysis: Rats Detecting Landmines (Team Lead)</h2>
+<ul>
+<li>Regression w/ interactions + quadratic terms for nonlinearity.</li>
+<li>Feature engineering, log transforms, CV/backtesting, residual diagnostics.</li>
+</ul>
+</section>
+<section id="survival-analysis-project-team-member" class="level2">
+<h2 class="anchored" data-anchor-id="survival-analysis-project-team-member">Survival Analysis Project (Team Member)</h2>
+<ul>
+<li>Cancer patient survival modeling and report writing (reading course style).</li>
+</ul>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -210,6 +265,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -524,8 +584,35 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2026 Jingchao (Tony) Zhu</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/TonyZhu233">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
 
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

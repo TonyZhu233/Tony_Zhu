@@ -1,16 +1,128 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Dynamic strategy using Modern Portfolio Theory with monthly rolling-window optimization.\nDiversified portfolio (ETFs, equities, gold, bonds); backtested vs S&P 500."
+  },
+  {
+    "objectID": "projects.html#portfolio-trading-strategy-for-a-volatile-year-team-lead",
+    "href": "projects.html#portfolio-trading-strategy-for-a-volatile-year-team-lead",
+    "title": "Projects",
+    "section": "",
+    "text": "Dynamic strategy using Modern Portfolio Theory with monthly rolling-window optimization.\nDiversified portfolio (ETFs, equities, gold, bonds); backtested vs S&P 500."
+  },
+  {
+    "objectID": "projects.html#scent-analysis-rats-detecting-landmines-team-lead",
+    "href": "projects.html#scent-analysis-rats-detecting-landmines-team-lead",
+    "title": "Projects",
+    "section": "Scent Analysis: Rats Detecting Landmines (Team Lead)",
+    "text": "Scent Analysis: Rats Detecting Landmines (Team Lead)\n\nRegression w/ interactions + quadratic terms for nonlinearity.\nFeature engineering, log transforms, CV/backtesting, residual diagnostics."
+  },
+  {
+    "objectID": "projects.html#survival-analysis-project-team-member",
+    "href": "projects.html#survival-analysis-project-team-member",
+    "title": "Projects",
+    "section": "Survival Analysis Project (Team Member)",
+    "text": "Survival Analysis Project (Team Member)\n\nCancer patient survival modeling and report writing (reading course style)."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "PDF: upload your resume to the repo, e.g. files/Tony_Resume.pdf\nThen link it here.\n\nDownload my CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#download",
+    "href": "cv.html#download",
+    "title": "CV",
+    "section": "",
+    "text": "PDF: upload your resume to the repo, e.g. files/Tony_Resume.pdf\nThen link it here.\n\nDownload my CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#quick-summary",
+    "href": "cv.html#quick-summary",
+    "title": "CV",
+    "section": "Quick Summary",
+    "text": "Quick Summary\n\nMS Biostatistics, Yale University (2025–2027)\nHonours BSc (High Distinction), Quantitative Finance Stream, UTSC (GPA 3.92)\nR / Python / SQL; Risk analytics; reporting automation; teaching & communication"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Tony_Zhu",
+    "title": "Tony Zhu",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am an undergraduate student with a strong interest in statistics, data science, and academic research.\nMy academic training focuses on statistical modeling, data analysis, and applied machine learning.\nI am currently seeking research opportunities, graduate programs, and academic-oriented positions."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Tony Zhu",
+    "section": "",
+    "text": "I am an undergraduate student with a strong interest in statistics, data science, and academic research.\nMy academic training focuses on statistical modeling, data analysis, and applied machine learning.\nI am currently seeking research opportunities, graduate programs, and academic-oriented positions."
+  },
+  {
+    "objectID": "index.html#curriculum-vitae",
+    "href": "index.html#curriculum-vitae",
+    "title": "Tony Zhu",
+    "section": "📄 Curriculum Vitae",
+    "text": "📄 Curriculum Vitae\n\n👉 Download my CV (PDF)"
+  },
+  {
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "Tony Zhu",
+    "section": "🔬 Research & Projects",
+    "text": "🔬 Research & Projects\n\nStatistical modeling and data analysis (R, Python)\nCoursework projects in probability, regression, and applied statistics\nData-driven problem solving with reproducible workflows\n\n(Details coming soon.)"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Tony Zhu",
+    "section": "📬 Contact",
+    "text": "📬 Contact\n\nEmail: your.email@utoronto.ca\nGitHub: https://github.com/TonyZhu233"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: Tony.zhu@yale.edu\nLocation: Toronto, ON / New Haven, CT\nGitHub: https://github.com/TonyZhu233\nLinkedIn: (paste your real link)"
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
-    "title": "About",
+    "title": "Experience",
     "section": "",
-    "text": "About this site"
+    "text": "Automated reporting using Python + Excel VBA, reducing generation time by 75%.\nSupported month-end/quarter-end reporting; investigated daily cash receipts using SAP."
+  },
+  {
+    "objectID": "experience.html#finance-analyst-intern-softchoice-corp.-sep-2023-apr-2024",
+    "href": "experience.html#finance-analyst-intern-softchoice-corp.-sep-2023-apr-2024",
+    "title": "Experience",
+    "section": "",
+    "text": "Automated reporting using Python + Excel VBA, reducing generation time by 75%.\nSupported month-end/quarter-end reporting; investigated daily cash receipts using SAP."
+  },
+  {
+    "objectID": "experience.html#risk-policy-analysis-intern-ontario-financial-authority-jan-apr-2023",
+    "href": "experience.html#risk-policy-analysis-intern-ontario-financial-authority-jan-apr-2023",
+    "title": "Experience",
+    "section": "Risk Policy & Analysis Intern — Ontario Financial Authority (Jan – Apr 2023)",
+    "text": "Risk Policy & Analysis Intern — Ontario Financial Authority (Jan – Apr 2023)\n\nBuilt ML models to forecast market trends and credit risk indicators, improving accuracy by 15%.\nProduced risk management reports; delivered dashboards and insights to senior management."
+  },
+  {
+    "objectID": "experience.html#teaching-assistant-university-of-toronto-scarborough-jan-2023-apr-2025",
+    "href": "experience.html#teaching-assistant-university-of-toronto-scarborough-jan-2023-apr-2025",
+    "title": "Experience",
+    "section": "Teaching Assistant — University of Toronto Scarborough (Jan 2023 – Apr 2025)",
+    "text": "Teaching Assistant — University of Toronto Scarborough (Jan 2023 – Apr 2025)\n\nLed weekly tutorials and office hours; graded and provided feedback.\nCourses include applied stats, probability, categorical data analysis, derivatives, investment & credit."
+  },
+  {
+    "objectID": "experience.html#statistical-consulting-assistant-utsc-may-sep-2024",
+    "href": "experience.html#statistical-consulting-assistant-utsc-may-sep-2024",
+    "title": "Experience",
+    "section": "Statistical Consulting Assistant — UTSC (May – Sep 2024)",
+    "text": "Statistical Consulting Assistant — UTSC (May – Sep 2024)\n\nSupported researchers in study design, modeling, interpretation, and reporting."
   }
 ]
