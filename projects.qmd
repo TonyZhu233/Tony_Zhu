@@ -12,3 +12,8 @@ title: "Projects"
 
 ## Survival Analysis Project (Team Member)
 - Cancer patient survival modeling and report writing (reading course style).
+
+
+## NBA Games by Division (Course Assignment)
+
+![NBA division matchup heatmap](img/nba_division_grid.jpg)
